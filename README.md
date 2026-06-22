@@ -1,4 +1,7 @@
 # Atmospheric Radiation Measurement Synergy: Radar, Aerosol, Cloud and Energy (ARMS-Race)
+
+![arms-race](arms-race-photo.jpg)
+
 ## [2026 ARM Summer School](https://arm-development.github.io/arm-summer-school-2026/) Project 
 
 Random Forest Machine Learning Algorithm Development to Classify Arctic Cloud Phase
