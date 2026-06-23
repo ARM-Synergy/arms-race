@@ -1,5 +1,7 @@
 # Atmospheric Radiation Measurement Synergy: Radar, Aerosol, Cloud and Energy (ARMS-Race)
 
+[![DOI](https://zenodo.org/badge/1244924860.svg)](https://doi.org/10.5281/zenodo.20820988)
+
 ![arms-race](arms-race-photo.jpg)
 
 ## [2026 ARM Summer School](https://arm-development.github.io/arm-summer-school-2026/) Project 
