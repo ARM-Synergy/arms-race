@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Atmospheric Radiation Measurement Synergy: Radar, Aerosol, Cloud and Energy
+  title: Atmospheric Radiation Measurement Synergy - Radar, Aerosol, Cloud and Energy
   description: 2026 ARM Big Open Data Summer School Project
   github: https://github.com/ARM-Synergy/arms-race/
   # keywords: []
@@ -31,15 +31,13 @@ project:
     - file: README.md
     - title: Project Development
       children:
-        - file: Cresanti_nsaceil.ipynb
-        - file: data_exploration.ipynb
-        - file: downloand_and_plot_AERI.ipynb
-        - file: Aaron_Dorough.ipynb
-        - file: radiosonde.ipynb
-        - file: feature_and_label_vector_creation.ipynb
-        - file: feature_and_label_vector_creation_for_tesing.ipynb
-        - file: ARMS_RACE_RF_Testing_13June2026_Nairy.ipynb
-        - file: ARMS_RACE_RF-highres_Train-Val-Nairy.ipynb
+        - file: notebooks/Cresanti_nsaceil.ipynb
+        - file: notebooks/data_exploration.ipynb
+        - file: notebooks/downloand_and_plot_AERI.ipynb
+        - file: notebooks/Aaron_Dorough.ipynb
+        - file: notebooks/radiosonde.ipynb
+        - file: notebooks/feature_and_label_vector_creation.ipynb
+        - file: notebooks/ARMS_RACE_RF-highres_Train-Val_Nairy.ipynb
 site:
   options:
     logo: notebooks/images/arm_logo.png
